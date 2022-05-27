@@ -1,29 +1,6 @@
-# https://wiki.python.org.br/ListaDeExercicios
-
-# Exercício 01
-'''
-print("Olá Mundo")
-'''
-
-# Exercicio 2
-'''
-num = input("Digite um Numero: ")
-print(f"O numero informado foi: {num}")
-'''
-
-# Exercicio 3
-'''
-num_1 = int(input("Digite um numero: "))
-num_2 = int(input("Digite um numero: "))
-
-print(f"O resultado é: {num_1 + num_2}")
-'''
-
-# Exercicio 17
-
 from math import ceil
 
-print("\n\tLoja de tinta de um FDP")
+print("\n\tLoja de tinta Genérica")
 
 preco_lata: int = 80
 preco_galao = 25
